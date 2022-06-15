@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-random-word-generator/static/css/main.7bd2e300.css",
+    "main.js": "/react-random-word-generator/static/js/main.2d053ec2.js",
+    "index.html": "/react-random-word-generator/index.html",
+    "main.7bd2e300.css.map": "/react-random-word-generator/static/css/main.7bd2e300.css.map",
+    "main.2d053ec2.js.map": "/react-random-word-generator/static/js/main.2d053ec2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bd2e300.css",
+    "static/js/main.2d053ec2.js"
+  ]
+}
